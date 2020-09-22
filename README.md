@@ -1,25 +1,24 @@
-# Create TOC in Existing PDF by Extracting Page Titles
-This [free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.PDF](https://products.aspose.com/pdf) to enable you to [create TOC in exisiting PDF document](https://docs.aspose.com/display/pdfnet/Manipulate+PDF+Document#ManipulatePDFDocument-AddTOCtoExistingPDF) by [extracting first line/phrase of each page](https://docs.aspose.com/display/pdfnet/Extract+Text+from+PDF). It also showcases a functionality to extract lengthy content pages and create a separate PDF document from them. For example, if a Chapter has title "Chapter 1" and it expands over more than one page of the PDF, this utility will extract all pages containing "Chapter 1" title and create a new PDF file from them.
+# Apply Encryption, Decryption and Password to a PDF using Aspose.PDF for .NET [.NET Core]
+This [free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.PDF](https://products.aspose.com/pdf) to enable you to [encrypt/decrypt PDF file using Aspose.PDF for .NET](https://docs.aspose.com/pdf/net/set-privileges-encrypt-and-decrypt-pdf-file/) under .NET Core environment. It also showcases a functionality to [set different privileges on a PDF document](https://docs.aspose.com/pdf/net/set-privileges-encrypt-and-decrypt-pdf-file/#set-privileges-on-an-existing-pdf-file) while saving it.
 
 # ScreenShots of Usage
 
 Below is the main screen of the application which is annotated as well to describe functionality of each control:
 
-![Screen1](https://user-images.githubusercontent.com/22503496/81444486-a521df00-9190-11ea-924b-e5da614c7843.png)
+![encryptpdf](https://user-images.githubusercontent.com/22503496/93925862-348af180-fd30-11ea-8310-d48bb43e9fc3.png)
 
-**Set License File:** You must have a valid license file before using the application. In case you do not have one, you can apply for a [30-days free temporary license](https://purchase.aspose.com/temporary-license) to use and evaluate the API without any restriction.
+**Load License File:** You must have a valid license file before using the application. In case you do not have one, you can apply for a [30-days free temporary license](https://purchase.aspose.com/temporary-license) to use and evaluate the API without any restriction.
 
-**Select a PDF:** The application uses a sample PDF document ([sample.pdf](https://github.com/aspose-free-consulting/projects/files/4601308/sample.pdf)) which is also available in the project but, you can use any PDF document having similar structure.
+**Select a PDF File to Encrypt:** The application uses a sample PDF document ([Sample.pdf](https://github.com/aspose-free-consulting/projects/files/5263493/Sample.pdf)) which is also available in the project but, you can use any PDF document.
 
-**Extract First Phrase/Word of each Page:** This will extract very first phrase/word/title of every page inside selected PDF and list it in the below ListBox. e.g. Below ScreenShot:
+**Specify Privileges and Password:** This section would allow you to specify password for the PDF and different privileges options as per your needs.
 
-![Screen2](https://user-images.githubusercontent.com/22503496/81445095-b6b7b680-9191-11ea-890b-9fe4bef51764.png)
+**Output PDF Document:** After pressing "Encrypt PDF" Button, application will produce an output PDF document with all options and password set. Following images show how PDF properties look like before and after applying the encryption.
 
-**Create TOC in PDF with Unique Titles:** This will create/add TOC in selected PDF document containing unique titles and hyperlinks pointing to the corresponding pages. Below is a screenshot of sample output PDF document:
+![Before](https://user-images.githubusercontent.com/22503496/93926942-9dbf3480-fd31-11ea-94b1-fc45be74cfda.png)
 
-![Output1](https://user-images.githubusercontent.com/22503496/81445295-05fde700-9192-11ea-8585-6c451660f5bd.png)
+![After](https://user-images.githubusercontent.com/22503496/93926976-aa438d00-fd31-11ea-89c2-207c31408579.png)
 
-**Create separate PDF for long titles and Create TOC for Rest:** This option will extract all chapters expanding over more than one page and create separate PDF for them. Also, it will create TOC for the remaining chapters in selected PDF.
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
@@ -30,4 +29,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consluting project is based on the following issue:
 
-[ create a project that does Epub to PDF, Preview PDF converter](https://github.com/aspose-free-consulting/projects/issues/16#issuecomment-564834044)
+[I want to apply encrypt decrypt password in adpose pdf in dot net Core. Is it feasible to set privilege?](https://github.com/aspose-free-consulting/projects/issues/67)
