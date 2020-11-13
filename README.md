@@ -27,6 +27,6 @@ If you have any questions about Aspose APIs, please feel free to [post your quer
 
 Also, you can keep in touch with the latest developments in [file format APIs offered by Aspose at our Blog](https://blog.aspose.com/).
 
-## This free consluting project is based on the following issue:
+## This free consulting project is based on the following issue:
 
 [I want to apply encrypt decrypt password in adpose pdf in dot net Core. Is it feasible to set privilege?](https://github.com/aspose-free-consulting/projects/issues/67)
