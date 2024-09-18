@@ -29,4 +29,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consulting project is based on the following issue:
 
-[I want to apply encrypt decrypt password in adpose pdf in dot net Core. Is it feasible to set privilege?](https://github.com/aspose-free-consulting/projects/issues/67)
+I want to apply encrypt decrypt password in adpose pdf in dot net Core. Is it feasible to set privilege? github.com/aspose-free-consulting/projects/issues/67
